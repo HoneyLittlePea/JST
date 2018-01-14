@@ -1,1 +1,2 @@
 1st line in 6.txt
+2nd line in 6.txt
