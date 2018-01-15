@@ -4,3 +4,4 @@ Add by branch win-user1
 Add by branch win-user2
 5th line in 1.txt. Added by branch linux-user1
 6th line in 1.txt. Added by branch linux-user1 at SecondTime
+Bugfix on branch bug008
