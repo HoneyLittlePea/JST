@@ -10,3 +10,4 @@ Add by branch win-user2
 10th line add by branch linux_dev1 at 4thTime
 Bugfix on branch bug008
 Bugfix2 on branch bug008
+Bugfix2 on branch bug008
