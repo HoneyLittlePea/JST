@@ -1,2 +1,7 @@
 1st line in 1.txt
 2nd line in 1.txt
+<<<<<<< HEAD
+=======
+Add by branch win-user1
+Add by branch win-user2
+>>>>>>> win-user2
